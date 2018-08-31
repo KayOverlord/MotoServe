@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609071721757",
+    "firebase_url": "https://motoserve-c794e.firebaseio.com",
+    "project_id": "motoserve-c794e",
+    "storage_bucket": "motoserve-c794e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609071721757:android:01b7525f5c412b6a",
+        "android_client_info": {
+          "package_name": "com.ttz.kmystro.motoserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609071721757-kb26ekcjircjrcrst5c0e77hibuj8mov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ttz.kmystro.motoserve",
+            "certificate_hash": "dc192167a99a27a9c7a452780beba1ae1a57550b"
+          }
+        },
+        {
+          "client_id": "609071721757-uh73a4b5c35ls24nsn8q9p3bde2a4pup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNTc24MKn_HfiOqIwqd84zDe0lVcwZoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609071721757-uh73a4b5c35ls24nsn8q9p3bde2a4pup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

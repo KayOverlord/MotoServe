@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MotoServe</string>
+    <string name="google_login">Google Login</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="click_image">click image</string>
+    <string name="click_to_add_profile_pic">click to add profile pic</string>
+    <string name="motoserve">MotoServe</string>
+    <string name="user_name_please">User Name Please</string>
+    <string name="user_name">User Name</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi">Hi</string>
+    <string name="car_parts">Car Parts</string>
+    <string name="car_service">Car Service</string>
+    <string name="title_activity_parts_list">PartsListActivity</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_service">ServiceActivity</string>
+</resources>
